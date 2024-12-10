@@ -1,0 +1,30 @@
+body{
+    background-color:white ; 
+    padding: 0;
+    margin: 0;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+
+}
+
+.left-side{
+
+    width: 45%;
+}
+
+.right-side{
+   
+    width: 45%
+}
+
+img{
+    width: 100%;
+}
+
+.experience-area{
+    display: flex;
+}
